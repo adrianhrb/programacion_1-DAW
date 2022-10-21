@@ -20,4 +20,6 @@
     - Tarea 3 : Emojis paises  [Código](UD2/country_emoji.py)
     - Tarea 4 : 
     - Tarea 5 : Donar sangre [Código](UD2/blood_donation.py)
+    - Tarea 6 : Bucle while [Código](UD2/multiples3_limit.py)  
+    - Tarea 7 : Bucle for [Código](UD2/num_vowels.py)
 

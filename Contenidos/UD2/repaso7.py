@@ -1,16 +1,14 @@
-x_value = 0
-y_value = 0
-target_x = 7
-target_y = 8
+flow = True
+obj_x = 7
+obj_y = 8
+x = 0
+y = 0
 
-for number in range (0, target_x + 1):
-    print(f'({x_value}, {y_value})')
-    x_value += 1
-    y_value += 2
-    for num in range (0, target_y + 1):
-        x_value += 2
-        y_value += 1
-        print(f'({x_value}, {y_value})')
+while x <= obj_x and y <= obj_y:
+    print(f"({x}, {y})")
+    x += 2 - flow
+    y += 1 + flow
+    flow = not flow
         
         
         

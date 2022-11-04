@@ -42,5 +42,7 @@
     - Tarea 21 : Adivinar número [Código](UD2/repaso13.py)  
     - Tarea 22: Sumatorio [Código](UD2/summation.py)  
     - Tarea 23: Raíz cuadrada más cercana [Código](UD2/square_number.py)  
+    - Tarea 24: Ejercicios binario [Código 1](UD2/binary.py) || [Código 2](UD2/binary_op2.py)  
+     
 
 

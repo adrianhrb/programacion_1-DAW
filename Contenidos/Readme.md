@@ -35,5 +35,8 @@
     - Tarea 18 : Fichas de dominó [Código](UD2/repaso10.py)  
     - Tarea 19 : Valor de una función [Código](UD2/repaso11.py)  
     - Tarea 20: Tabla ASCII [Código](UD2/repaso12.py)  
-    - Tarea 21 : Adivinar número [Código](UD2/repaso13.py)
+    - Tarea 21 : Adivinar número [Código](UD2/repaso13.py)  
+    - Tarea 22: Sumatorio [Código](UD2/summation.py)  
+    - Tarea 23: Raíz cuadrada más cercana [Código](UD2/square_number.py)  
+    
 

@@ -6,6 +6,6 @@ Repositorio dedicado a la asignatura de programación
 
 ----------
 # Contenido
-Estamos estudiando desde [<aprendepython.es>](aprendepython.es)  
+Estamos estudiando desde [aprendepython.es](https://aprendepython.es/)  
 
 Aquí tenemos el [Trabajo del año](Contenidos/Readme.md)  

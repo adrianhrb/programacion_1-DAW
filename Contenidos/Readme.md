@@ -43,6 +43,13 @@
     - Tarea 22: Sumatorio [Código](UD2/summation.py)  
     - Tarea 23: Raíz cuadrada más cercana [Código](UD2/square_number.py)  
     - Tarea 24: Ejercicios binario [Código 1](UD2/binary.py) || [Código 2](UD2/binary_op2.py)  
+    - Traea 25: Falso Binario [Código](UD2/fake_binary.py)  
+    - Tarea 26: String alternativo [Código](UD2/alternative_case.py)  
+    - Tarea 27: Ascii desde string [Código](UD2/ascii_total.py)  
+    - Tarea 28: Correción errores [Código](UD2/char_mistake.py)  
+    - Tarea 29: Collatz ejercicio [Código](UD2/collatz_conjeture.py)  
+    - Tarea 30: Ejercicio 1 prueba examen [Código](UD2/ejer1_pop.py)  
+    - Tarea 31: Ejercicio 2 prueba examen [Código](UD2/ejer2_pop.py)  
      
 
 

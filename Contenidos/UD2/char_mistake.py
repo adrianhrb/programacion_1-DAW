@@ -2,7 +2,7 @@ recognized_text = "Hola 50y un amig0 de 1sabel"
 misinterpreted_char5 = "5"
 misinterpreted_char1 = "1"
 misinterpreted_char0 = "0"
-normal_char = " abcdefghijklmnopqrstuvwxyz"
+normal_char = " abcdefghijklmnopqrstuvwxyz" 
 corrected_text = ""
 
 for char in recognized_text:

@@ -49,7 +49,14 @@
     - Tarea 28: Correción errores [Código](UD2/char_mistake.py)  
     - Tarea 29: Collatz ejercicio [Código](UD2/collatz_conjeture.py)  
     - Tarea 30: Ejercicio 1 prueba examen [Código](UD2/ejer1_pop.py)  
-    - Tarea 31: Ejercicio 2 prueba examen [Código](UD2/ejer2_pop.py)  
+    - Tarea 31: Ejercicio 2 prueba examen [Código](UD2/ejer2_pop.py)
+    - Tarea 32: Día con número de entrada [Código](UD2/return_day.py)  
+    - Tarea 33: Número positivo a negativo [Código](UD2/return_negative.py)  
+    - Tarea 34: En qué planta estamos (America-Europa)[Código](UD2/real_floor.py)  
+    - Tarea 35: Perímetro o área según parámetros [Código](UD2/area_perimeter.py)  
+    - Tarea 36: Emparejamiento de casos [Código](UD2/same_case.py)  
+    - Tarea 37: Qué bebes según la edad [Código](UD2/drink_about.py)  
+    - Tarea 38: Calculadora precio gasolina [Código](UD2/fuel_calculator.py)
      
 
 

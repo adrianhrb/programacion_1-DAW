@@ -56,7 +56,18 @@
     - Tarea 35: Perímetro o área según parámetros [Código](UD2/area_perimeter.py)  
     - Tarea 36: Emparejamiento de casos [Código](UD2/same_case.py)  
     - Tarea 37: Qué bebes según la edad [Código](UD2/drink_about.py)  
-    - Tarea 38: Calculadora precio gasolina [Código](UD2/fuel_calculator.py)
+    - Tarea 38: Calculadora precio gasolina [Código](UD2/fuel_calculator.py)  
+
+- Examen: 
+    - Ejercicio 1: Escribe un programa en Python que calcule el número de divisores que tiene un número dado [Código](UD2/ejercicio1.py) 
+
+    - Ejercicio 2: Escribe un programa en Python que implemente la lógica de un semáforo, de tal manera que pase de verde a amarillo, de amarillo a rojo y de rojo a verde. Hacer el programa utilizando los emojis [Código](UD2/ejercicio2.py)  
+
+    - Ejercicio 3: Escribe un programa en Python que realice la conversión de una secuencia de ADN en su correspondiente ARN. El ARN es igual que el ADN salvo que la Timina se sustituye por Uracilo (U) [Código](UD2/ejercicio3.py)  
+
+    - Ejercicio 4: Escribe un programa en Python que, dada la edad de una madre y su hija, calcule en qué momento de sus vidas la edad de la madre será el doble que la edad de su hija. Lo que habrá que devolver es la edad de la madre y la edad de su hija en el momento en el que la madre doble en edad a su hija [Código](UD2/ejercicio4.py)
+
+
      
 
 

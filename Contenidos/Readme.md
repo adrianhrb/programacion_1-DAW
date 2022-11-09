@@ -1,5 +1,5 @@
 # **CONTENIDO**
-***Contenido de la unidad 1:***  
+***CONTENIDO DE LA UNIDAD 1:***  
 <div><img src="https://i.ytimg.com/vi/yOc9zVmyyQQ/maxresdefault.jpg" heigh="400" width="400"></div>
 
 - Tareas:
@@ -15,7 +15,7 @@
 
 - Examen: [Código](UD1/pop1.py)  
 
-***Contenido de la unidad 2:***  
+***CONTENIDO DE LA UNIDAD 2***  
 <div><img src="https://abdatum.com/media/images/bucle-while-python.jpg" heigh="400" width="400"></div>
 
 - Tareas:
@@ -65,9 +65,12 @@
 
     - Ejercicio 3: Escribe un programa en Python que realice la conversión de una secuencia de ADN en su correspondiente ARN. El ARN es igual que el ADN salvo que la Timina se sustituye por Uracilo (U) [Código](UD2/ejercicio3.py)  
 
-    - Ejercicio 4: Escribe un programa en Python que, dada la edad de una madre y su hija, calcule en qué momento de sus vidas la edad de la madre será el doble que la edad de su hija. Lo que habrá que devolver es la edad de la madre y la edad de su hija en el momento en el que la madre doble en edad a su hija [Código](UD2/ejercicio4.py)
+    - Ejercicio 4: Escribe un programa en Python que, dada la edad de una madre y su hija, calcule en qué momento de sus vidas la edad de la madre será el doble que la edad de su hija. Lo que habrá que devolver es la edad de la madre y la edad de su hija en el momento en el que la madre doble en edad a su hija [Código](UD2/ejercicio4.py)  
 
 
-     
+***CONTENIDO DE LA UNIDAD 3:***
+<div><img src="https://deiniresendiz.com/wp-content/uploads/2020/06/Python-2.jpg" heigh="400" width="400">  
 
-
+- Tareas:  
+    - Tarea 1: Lista con ciudades favoritas [Código](UD3/love_cities.py)  
+    - Tarea 2: 

@@ -9,3 +9,5 @@ Repositorio dedicado a la resolución de ejercicios de aprendizaje en Python.
 Estamos estudiando desde [aprendepython.es](https://aprendepython.es/)  
 
 Aquí tenemos el [Trabajo del año](Contenidos/Readme.md)  
+
+Aquí los [Apuntes](Contenidos/Apuntes/Readme.md)

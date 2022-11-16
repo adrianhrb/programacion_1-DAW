@@ -13,5 +13,6 @@ avg = addition / total_numbers
 print(avg)"""
 
 values = sys.argv[1:]
-total_numbers = int(len(values.split(" ")))
-avg = [int(number / total_numbers) for number in values]
+values = [int(num) for num in values]
+avg = sum(values) / len(values)
+print(avg)

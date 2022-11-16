@@ -73,4 +73,13 @@
 
 - Tareas:  
     - Tarea 1: Lista con ciudades favoritas [Código](UD3/love_cities.py)  
-    - Tarea 2: 
+    - Tarea 2: Determina si una cadena es isograma [Código](UD3/isogram.py)  
+    - Tarea 3: Pasa de una fecha americana a una europea [Código](UD3/fixdate.py)  
+    - Tarea 4: Lista de caracteres [Código](UD3/char_list.py)  
+    - Tarea 5: Calcula el producto escalar [Código](UD3/vect_prod.py)  
+    - Tarea 6: Función aplicada a lista [Código](UD3/comprehension.py)  
+    - Tarea 7: Cálculo de media de una lista dada [Código](UD3/avg.py)  
+    - Tarea 8: Cálculo de una matriz 2X2 [Código](UD3/matrix2X2.py)  
+    - Tarea 9: Obtener valor máximo [Código](UD3/repaso1.py)  
+    - Tarea 10: Eliminar elementos duplicados de una lista [Código](UD3/repaso2.py)  
+    - Tarea 11: Eliminar sublistas de una lista [Código](UD3/repaso3.py)

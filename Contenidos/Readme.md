@@ -82,4 +82,7 @@
     - Tarea 8: Cálculo de una matriz 2X2 [Código](UD3/matrix2X2.py)  
     - Tarea 9: Obtener valor máximo [Código](UD3/repaso1.py)  
     - Tarea 10: Eliminar elementos duplicados de una lista [Código](UD3/repaso2.py)  
-    - Tarea 11: Eliminar sublistas de una lista [Código](UD3/repaso3.py)
+    - Tarea 11: Eliminar sublistas de una lista [Código](UD3/repaso3.py)  
+    - Tarea 12: Eliminar elementos consecutivos [Código](UD3/repaso4.py)
+    - Tarea 13: Elementos de una lista son iguales [Código](UD3/repaso5.py)
+    - Tarea 14: Sumar la diagonal principal [Código](UD3/repaso6.py)

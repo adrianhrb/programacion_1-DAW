@@ -5,7 +5,7 @@ new_list = []
 
 for number in entry[1:]:
     if number != num:
-        num = number
         new_list.append(number)
+        num = number
 
 print(new_list)

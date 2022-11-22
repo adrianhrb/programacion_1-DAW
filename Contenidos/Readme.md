@@ -85,4 +85,6 @@
     - Tarea 11: Eliminar sublistas de una lista [Código](UD3/repaso3.py)  
     - Tarea 12: Eliminar elementos consecutivos [Código](UD3/repaso4.py)
     - Tarea 13: Elementos de una lista son iguales [Código](UD3/repaso5.py)
-    - Tarea 14: Sumar la diagonal principal [Código](UD3/repaso6.py)
+    - Tarea 14: Sumar la diagonal principal [Código](UD3/repaso6.py)  
+    - Tarea 15: Potencias de dos según un entero [Código](UD3/powers_2.py)  
+    - Tarea 16: Pasar a binario usando listas [Código](UD3/to_binary.py)

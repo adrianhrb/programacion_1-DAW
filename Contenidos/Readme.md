@@ -90,3 +90,4 @@
     - Tarea 16: Pasar a binario usando listas [Código](UD3/to_binary.py)  
     - Tarea 17: Coger iniciales cadena de texto [Código](UD3/name_initials.py)
     - Tarea 18 : Números consecutivos [Código](UD3/non_consecutive.py)
+    - Tarea 19: Lista al revés [Código](UD3/digit_rev_list.py)

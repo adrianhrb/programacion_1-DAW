@@ -89,3 +89,4 @@
     - Tarea 15: Potencias de dos según un entero [Código](UD3/powers_2.py)  
     - Tarea 16: Pasar a binario usando listas [Código](UD3/to_binary.py)  
     - Tarea 17: Coger iniciales cadena de texto [Código](UD3/name_initials.py)
+    - Tarea 18 : Números consecutivos [Código](UD3/non_consecutive.py)

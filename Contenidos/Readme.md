@@ -87,4 +87,5 @@
     - Tarea 13: Elementos de una lista son iguales [Código](UD3/repaso5.py)
     - Tarea 14: Sumar la diagonal principal [Código](UD3/repaso6.py)  
     - Tarea 15: Potencias de dos según un entero [Código](UD3/powers_2.py)  
-    - Tarea 16: Pasar a binario usando listas [Código](UD3/to_binary.py)
+    - Tarea 16: Pasar a binario usando listas [Código](UD3/to_binary.py)  
+    - Tarea 17: Coger iniciales cadena de texto [Código](UD3/name_initials.py)
